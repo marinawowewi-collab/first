@@ -1,0 +1,25 @@
+span {
+text-align: center;
+color: #4e8ffb;
+}
+h1 {
+    padding: 30px;
+    text-align: center;
+    font-size: 50px;
+}
+
+a {
+    color:#4e8ffb;
+}
+
+input {
+    margin-left: 400px;
+}
+button {
+    margin-left: 450px;
+}
+.main {
+display: flex;
+justify-content: center;
+align-items: center;
+}
